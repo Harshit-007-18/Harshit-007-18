@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Harshit Mohanty 😇
 
 - 🌱 I’m currently learning AI/ML Fundamentals
-- 🔭 I’m currently working on High level System Design
+- 🔭 I’m currently working on Data Structures & Algorithms
 - 👥 I’m looking to collaborate on Python Projects
 <!--
 **Harshit-007-18/Harshit-007-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
